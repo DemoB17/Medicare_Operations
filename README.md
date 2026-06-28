@@ -1,2 +1,1 @@
-# Medicare_Operations
-An end-to-end healthcare operations analytics project analyzing patient demographics, appointments, billing, payments, and clinical performance using Excel, SQL, and Power BI to deliver actionable business insights through an interactive dashboard.
+This project demonstrates a complete healthcare data analytics workflow—from data cleaning in Excel, data preparation and analysis in SQL, to building an interactive Power BI dashboard. The dashboard provides insights into patient demographics, appointment trends, payment performance, physician activity, diagnosis patterns, and operational KPIs to support data-driven decision-making.
